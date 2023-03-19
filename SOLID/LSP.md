@@ -8,7 +8,7 @@
 
 단순히 컴파일 성공을 넘어서, 인터페이스를 구현한 구현체를 믿고 사용할수 있어야 하려면 이 원칙이 필요하다.
 
-    class MyList implement List{
+    class MyList implements List{
         List list = new ArrayList();
         void add(Object obj){
             list.remove(obj);
