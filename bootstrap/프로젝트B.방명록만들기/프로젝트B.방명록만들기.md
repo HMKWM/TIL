@@ -2,7 +2,7 @@
 
 https://www.boostcourse.org/web326/project/206/content/165#summary
 
-GuestbookDao
+### GuestbookDao
 
 싱글톤 방식으로 작성. 싱글톤 방식 장단점, 주의점
 
